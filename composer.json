@@ -13,7 +13,9 @@
         "laravel/framework": "5.4.*",
         "laravel/tinker": "~1.0",
         "laravelcollective/html": "^5.4",
-        "unisharp/laravel-ckeditor": "^4.6"
+        "unisharp/laravel-ckeditor": "^4.6",
+		"ext-gd": "*",
+		"hesto/multi-auth": ">=1.0.4"
     },
    
     "require-dev": {
